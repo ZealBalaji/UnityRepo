@@ -1,0 +1,162 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     971 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Zealbalaji\TestProjects\OwnProjects_5.0\ResourceTest\Release\ResourceTest_Data\Managed\System.dll (this message is harmless)
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.0625
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.125
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.1875
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.3125
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.375
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.4375
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.5625
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.625
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.6875
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.75
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.8125
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.875
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.9375
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+7atlantic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+BasicCont_C
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+BasicCont_Ho
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+BasicCont_N
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Emergency_C
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Emergency_Ho
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Emergency_Lock
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Emergency_N
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+IleDeBatz
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Manoeuvre_C
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Manoeuvre_Ho
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Manoeuvre_N
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Noordhoek
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Semi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SevenOceans
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Ulstin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+UlstinPX105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2370 -> priority: 1 
